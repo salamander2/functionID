@@ -1,0 +1,2 @@
+Main-Class: sciOlympics/Function
+Class-Path: .
