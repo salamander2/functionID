@@ -12,4 +12,6 @@ If you can't compile this, remove the "package sciOlympics;" from the first line
 
 Github location: https://github.com/salamander2/functionID
 
-Original location of code: http://www.physics.uwo.ca/science_olympics/events/grades_11_to_12/function_id/functionid_01.html
+Original location of code: http://www.physics.uwo.ca/science_olympics/events/grades_11_to_12/function_id/functionid_01.html  (UWO physics has now removed this site , 2019)
+
+The London Ontario Science Fair webpage is here: https://tvsef.ca/olympics/events.html 
